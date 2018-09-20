@@ -15,16 +15,16 @@
   <body>
    <trans-unit id="1" maxbytes="14" approved="yes">
     <source xml:lang="en-US">Quetzal</source>
-    <target xml:lang="ja-JP"></target>
+    <target xml:lang="ja-JP">Quetzal133432432432421111111111111111111111</target>
    </trans-unit>
    <trans-unit id="3" maxbytes="114" approved="yes">
     <source xml:lang="en-US">An application to manipulate and 
      process XLIFF documents</source>
-    <target xml:lang="ja-JP"></target>
+    <target xml:lang="ja-JP"/>
    </trans-unit>
    <trans-unit id="4" maxbytes="36" approved="yes">
     <source xml:lang="en-US">XLIFF Data Manager</source>
-    <target xml:lang="ja-JP"></target>
+    <target xml:lang="ja-JP"/>
    </trans-unit>
   </body>
  </file>
